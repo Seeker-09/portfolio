@@ -34,7 +34,7 @@ export default function Home() {
             asChild
           >
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/Seeker-09"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -202,7 +202,7 @@ export default function Home() {
               asChild
             >
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/david-mundt-ii-383019236/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -222,7 +222,7 @@ export default function Home() {
               asChild
             >
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/Seeker-092"
                 target="_blank"
                 rel="noopener noreferrer"
               >
